@@ -1,16 +1,17 @@
-### Hi there 👋
+<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Lawrence</B></h3>
+<hr>
 
-<!--
-**ifeanyilawrence/ifeanyilawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An experienced software engineer with 6 years of professional software development experience. Skilled with the use of industry best practices and Agile methodology in developing robust software product and overseeing a product through its software development life cycle.
 
-Here are some ideas to get you started:
+I like working in teams and collaborating with other engineers. I have vast professional experience of building and developing in the Information Technology industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aside being a tech enthusiast, I also enjoy playing video games and I am a strong Arsenal FC fan 😄.
+
+- 👯 I’m open to work on projects, remote, part-time & full-time gigs.
+- 📫 How to reach me: 
+  * [Twitter](https://twitter.com/ifeanyilawrence "Twitter")
+  * [LinkedIn](https://www.linkedin.com/in/lawrence-eze/ "LinkedIn")
+  * [Medium](https://medium.com/@ifeanyilawrence "Medium")
+  * [Skype](https://join.skype.com/invite/nOCgkCeHmBpf "Skype")
+
+- ⚡ Fun fact: I love football.
