@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Lawrence</B></h3>
 <hr>
 
-An experienced senior software engineer with 7 years of professional software development experience. Skilled with the use of industry best practices in developing efficient software product and overseeing a product through its software development life cycle.
+An experienced senior software engineer with 8 years of professional software development experience. Skilled with the use of industry best practices in developing efficient software product and overseeing a product through its software development life cycle.
 
 I like working in teams and collaborating with other engineers. I have vast professional experience of building and developing in the Information Technology industry.
 
