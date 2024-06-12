@@ -12,6 +12,5 @@ Aside being a tech enthusiast, I also enjoy playing video games and I am a stron
   * [Twitter](https://twitter.com/ifeanyilawrence "Twitter")
   * [LinkedIn](https://www.linkedin.com/in/lawrence-eze/ "LinkedIn")
   * [Medium](https://medium.com/@ifeanyilawrence "Medium")
-  * [Skype](https://join.skype.com/invite/nOCgkCeHmBpf "Skype")
 
 - ⚡ Fun fact: I love football.
